@@ -1,5 +1,5 @@
 # About
-This application extracts Corona virus statistics(from https://www.worldometers.info/coronavirus/) for a given country/ies and
+This application extracts Corona virus statistics(from https://www.worldometers.info/coronavirus/) for given country/ies and
 sends out an email with these numbers to recipients.
 # Modules
     covid19_scrapper.py => process_scrapping_request

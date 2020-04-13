@@ -1,12 +1,12 @@
-#About
+# About
 This application computes traffic time between two places.
-#Modules
+# Modules
     travel_time.py => process_travel_time_request
-#Usage
+# Usage
 Call the module with following parameters -
 
     process_travel_time_request(source_address, destination_address, api_key)        
-#Dependencies
+# Dependencies
 Following Google APIs need to be enabled -
     
     Distance Matrix API
